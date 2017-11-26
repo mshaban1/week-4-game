@@ -62,10 +62,3 @@ $(document).ready(function () {
         logic();
     })
 });
-
-
-
-
-
-
-
